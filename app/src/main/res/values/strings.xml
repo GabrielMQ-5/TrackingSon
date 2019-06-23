@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TrackingSon</string>
+
+    <string name="title_alert_error">Error</string>
+    <string name="title_alert_failure_attempts">Falla de Intentos</string>
+    <string name="title_alert_loading">Cargando&#8230;</string>
+    <string name="title_alert_success">Éxito</string>
+    <string name="title_alert_warning">Alerta</string>
+
+    <string name="text_alert_bad_request">Solicitud incorrecta</string>
+    <string name="text_alert_server_error">Error del servidor</string>
+    <string name="text_alert_success">Ingreso correcto</string>
+    <string name="text_alert_loading">Su petición esta siendo procesada</string>
+
+</resources>
